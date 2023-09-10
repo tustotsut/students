@@ -1,0 +1,6 @@
+css-casecading style sheet
+
+there are three tyoes of css
+1. inline css
+2.exteranal css
+3.enternal css

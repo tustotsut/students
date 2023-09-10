@@ -1,0 +1,47 @@
+.my-caption{
+    width: 700px;
+    left: 130px;
+    bottom: 100px;
+    text-align: left;
+}
+#num-box1{
+    width: 50px;
+    height: 50px;
+    background-color: #23b7a4;
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
+#num-box2{
+    width: 50px;
+    height: 50px;
+    background-color: #23b7a4;
+    text-align: center;
+    margin-top: 40px;
+    padding: 15px;
+    color: white;
+}
+#num-box3{
+    width: 50px;
+    height: 50px;
+    background-color: #23b7a4;
+    text-align: center; 
+    margin-top: 40px;
+    padding: 15px;
+    color: white;
+}
+.modest-social-div
+{
+    width: 60px;
+    height: 60px;
+    background-color: lightgray;
+    color:black;
+}
+.lovelywork
+{
+    background-color: #3b454e;
+}
+.seemore
+{
+    position: center;
+}
