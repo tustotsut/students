@@ -1,0 +1,136 @@
+.top-nav span{
+    color: white;
+}
+.top-nav span i{
+    color: red;
+}
+.top-right-nav span i{
+    color: white;
+}
+.top-right-nav p{
+    color: white;
+}
+.my-caption{
+    text-align: left;
+    width: 700px;
+    left: 170px;
+    bottom: 100px;
+}
+.my-caption h1{
+    font-size: 60px;
+    color: black;
+}
+.my-caption h1 mark{
+    color:#f25454;
+    background: none;
+}
+.my-caption a{
+    background-color: #f25454;
+    padding: 10px 15px 10px 15px;
+}
+.col-md-9 h2 mark{
+    background: none;
+    color: #f25454;
+}
+.col-md-9 h2{
+    padding-left: 250px;
+}
+.col-md-9 p{
+    padding-left: 250px;
+}
+.col-md-9 button{
+    margin-left: 250px;
+    margin-top: 20px;
+    color: white;
+    background: #f25454;
+    padding: 15px;
+}
+.our-industry{
+    background-color: #acc2cf;
+}
+.col-md-12 h1{
+    color: white;
+    text-align: center;
+    margin: 80px;
+}
+.our-industry i{
+    padding-left: 150px;
+}
+.our-industry h5,p{
+    text-align: center;
+}
+.col-md-4{
+    background: white;
+}
+.happy-client h1{
+    text-align: center;
+}
+.client{
+    text-align: center;
+}
+.our-pricing{
+    background-color: #acc2cf;
+}
+.col-md-4 h6{
+    text-align: center;
+}
+.our-pricing p mark{
+    background: none;
+    color: #f25454;
+    font-size: 40px;
+    text-decoration: solid;
+}
+.our-pricing button{
+    margin-left: 100px;
+    color: white;
+    background: #f25454;   
+}
+.pricing{
+    padding-left: 2px;
+}
+.latest-news h5{
+    text-align: left;
+    padding-left: 25px;
+}
+.news{
+    text-align: left;
+    padding-left: 25px;
+}
+.images{
+    background-color: #edeff1;
+}
+.footer
+{
+    background-color: #11074d;
+    padding:auto;
+    
+}
+.col-md-2 h4
+{
+    padding-left: 20px;
+}
+#hello{
+    padding-top: 10px;
+}
+.bottom-footer span{
+    background-color: gray;
+    margin: 1px;
+    padding: 5px;
+}
+.icon{
+    padding-left: 300px;
+}
+.bottom-footer{
+    background-color: black;
+    padding-top: 10px;
+}
+.bottom-footer mark{
+    background: none;
+    color: red;
+}
+.bg3{
+    background-color:rgba(4, 4, 40, 0.921) ;}
+    
+.bg4{
+    background-color: black;
+}
