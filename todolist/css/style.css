@@ -1,0 +1,73 @@
+#main{
+    font-family: "Raleway", sans-serif;
+    padding: 40px 10px;
+    min-height: calc(100vh-110vh);
+}
+h2{
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+    margin: -10px -40px;
+    padding: 15px;
+    color: blue;
+}
+hr{
+    border: 0;
+    border-bottom: 2px solid black;
+    margin: 10px -40px;
+    margin-bottom: 30px;
+}
+#login{
+    width: 80%;
+    border-radius: 10px;
+    font-family: raleway;
+    border: 2px solid #ccc;
+    padding: 10px 40px 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+label.general{
+    display: inline-block;
+    width: 20%;
+    margin-right: 20px;
+
+}
+input[type="text"],
+input[type="number"],
+input[type="pasword"],
+input[type="date"],
+input[type="email"],
+textarea{
+    width: 70%;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    padding-left: 5px;
+    font-size: 16px;
+    font-family: raleway;    
+}
+input[type="submit"]{
+    width: 30%;
+    background-color: #4BB543;
+    color: white;
+    border: 2px solid #4BB543;
+    padding: 4px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+    margin-right: auto;
+}
+footer-area{
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    background-color: bisque;
+}
+footer-area p{
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
